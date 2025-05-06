@@ -11,7 +11,8 @@ def get_all_top_movies_grouped_by_year():
     soup = BeautifulSoup(response.content, "html.parser")
     movies = {}
 
-    movie_list = soup.select("ul.ipc-metadata-list > li")
+    movie_list = soup.find("ul", class_="ipc-metadata-list ipc-metadata-list--dividers-between sc-e22973a9-0 khSCXM compact-list-view ipc-metadata-list--base")
+
 
     for position, movie in enumerate(movie_list, start=1):
         name = movie.select_one("h3.ipc-title__text").text.strip()
@@ -40,8 +41,8 @@ def get_all_top_movies_grouped_by_year():
         movies[year].append(movie_data)
 
     
-    with open("data/movies_data.json", 'w', encoding='utf-8') as f:
-        json.dump(movies, f, indent=4, ensure_ascii=False)
+    with open("data/movies_data.json", 'w') as f:
+        json.dump(movies, f, indent=4)
 
     return movies
 
