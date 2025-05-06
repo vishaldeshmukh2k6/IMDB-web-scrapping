@@ -4,6 +4,6 @@ print(scrape_top_list())
 
 
 
-# from tasks.task_2 import group_by_year
+from tasks.task_2 import get_all_top_movies_grouped_by_year
 
-# print(group_by_year())
+print(get_all_top_movies_grouped_by_year())
