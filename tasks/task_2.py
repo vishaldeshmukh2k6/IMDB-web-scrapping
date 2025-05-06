@@ -14,7 +14,11 @@ def get_all_top_movies_grouped_by_year():
     movie_list = soup.find("ul", class_="ipc-metadata-list ipc-metadata-list--dividers-between sc-e22973a9-0 khSCXM compact-list-view ipc-metadata-list--base")
 
 
-    for position, movie in enumerate(movie_list, start=1):
+    position = 1
+    
+    for movie in movie_list:
+        position += 1
+
         name = movie.select_one("h3.ipc-title__text").text.strip()
         info_div = movie.select_one("div.cli-title-metadata")
         spans = info_div.find_all("span")
