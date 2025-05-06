@@ -2,242 +2,217 @@
     "1994": [
         {
             "name": "1. The Shawshank Redemption",
-            "year": 1994,
+            "year": "1994",
             "run_time": "2h 22m",
-            "position": 2,
-            "rating": 9.3,
+            "rating": "9.3",
             "url": "https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1"
         },
         {
             "name": "8. Pulp Fiction",
-            "year": 1994,
+            "year": "1994",
             "run_time": "2h 34m",
-            "position": 9,
-            "rating": 8.9,
+            "rating": "8.9",
             "url": "https://www.imdb.com/title/tt0110912/?ref_=chttp_t_8"
         },
         {
             "name": "11. Forrest Gump",
-            "year": 1994,
+            "year": "1994",
             "run_time": "2h 22m",
-            "position": 12,
-            "rating": 8.8,
+            "rating": "8.8",
             "url": "https://www.imdb.com/title/tt0109830/?ref_=chttp_t_11"
         }
     ],
     "1972": [
         {
             "name": "2. The Godfather",
-            "year": 1972,
+            "year": "1972",
             "run_time": "2h 55m",
-            "position": 3,
-            "rating": 9.2,
+            "rating": "9.2",
             "url": "https://www.imdb.com/title/tt0068646/?ref_=chttp_t_2"
         }
     ],
     "2008": [
         {
             "name": "3. The Dark Knight",
-            "year": 2008,
+            "year": "2008",
             "run_time": "2h 32m",
-            "position": 4,
-            "rating": 9.0,
+            "rating": "9.0",
             "url": "https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3"
         }
     ],
     "1974": [
         {
             "name": "4. The Godfather: Part II",
-            "year": 1974,
+            "year": "1974",
             "run_time": "3h 22m",
-            "position": 5,
-            "rating": 9.0,
+            "rating": "9.0",
             "url": "https://www.imdb.com/title/tt0071562/?ref_=chttp_t_4"
         }
     ],
     "1957": [
         {
             "name": "5. 12 Angry Men",
-            "year": 1957,
+            "year": "1957",
             "run_time": "1h 36m",
-            "position": 6,
-            "rating": 9.0,
+            "rating": "9.0",
             "url": "https://www.imdb.com/title/tt0050083/?ref_=chttp_t_5"
         }
     ],
     "2003": [
         {
             "name": "6. The Lord of the Rings: The Return of the King",
-            "year": 2003,
+            "year": "2003",
             "run_time": "3h 21m",
-            "position": 7,
-            "rating": 9.0,
+            "rating": "9.0",
             "url": "https://www.imdb.com/title/tt0167260/?ref_=chttp_t_6"
         }
     ],
     "1993": [
         {
             "name": "7. Schindler's List",
-            "year": 1993,
+            "year": "1993",
             "run_time": "3h 15m",
-            "position": 8,
-            "rating": 9.0,
+            "rating": "9.0",
             "url": "https://www.imdb.com/title/tt0108052/?ref_=chttp_t_7"
         }
     ],
     "2001": [
         {
             "name": "9. The Lord of the Rings: The Fellowship of the Ring",
-            "year": 2001,
+            "year": "2001",
             "run_time": "2h 58m",
-            "position": 10,
-            "rating": 8.9,
+            "rating": "8.9",
             "url": "https://www.imdb.com/title/tt0120737/?ref_=chttp_t_9"
         }
     ],
     "1966": [
         {
             "name": "10. Il Buono, Il Brutto, Il Cattivo",
-            "year": 1966,
+            "year": "1966",
             "run_time": "2h 41m",
-            "position": 11,
-            "rating": 8.8,
+            "rating": "8.8",
             "url": "https://www.imdb.com/title/tt0060196/?ref_=chttp_t_10"
         }
     ],
     "2002": [
         {
             "name": "12. The Lord of the Rings: The Two Towers",
-            "year": 2002,
+            "year": "2002",
             "run_time": "2h 59m",
-            "position": 13,
-            "rating": 8.8,
+            "rating": "8.8",
             "url": "https://www.imdb.com/title/tt0167261/?ref_=chttp_t_12"
         },
         {
             "name": "25. City of God",
-            "year": 2002,
+            "year": "2002",
             "run_time": "2h 10m",
-            "position": 26,
-            "rating": 8.6,
+            "rating": "8.6",
             "url": "https://www.imdb.com/title/tt0317248/?ref_=chttp_t_25"
         }
     ],
     "1999": [
         {
             "name": "13. Fight Club",
-            "year": 1999,
+            "year": "1999",
             "run_time": "2h 19m",
-            "position": 14,
-            "rating": 8.8,
+            "rating": "8.8",
             "url": "https://www.imdb.com/title/tt0137523/?ref_=chttp_t_13"
         },
         {
             "name": "16. The Matrix",
-            "year": 1999,
+            "year": "1999",
             "run_time": "2h 16m",
-            "position": 17,
-            "rating": 8.7,
+            "rating": "8.7",
             "url": "https://www.imdb.com/title/tt0133093/?ref_=chttp_t_16"
         }
     ],
     "2010": [
         {
             "name": "14. Inception",
-            "year": 2010,
+            "year": "2010",
             "run_time": "2h 28m",
-            "position": 15,
-            "rating": 8.8,
+            "rating": "8.8",
             "url": "https://www.imdb.com/title/tt1375666/?ref_=chttp_t_14"
         }
     ],
     "1980": [
         {
             "name": "15. Star Wars: Episode V - The Empire Strikes Back",
-            "year": 1980,
+            "year": "1980",
             "run_time": "2h 4m",
-            "position": 16,
-            "rating": 8.7,
+            "rating": "8.7",
             "url": "https://www.imdb.com/title/tt0080684/?ref_=chttp_t_15"
         }
     ],
     "1990": [
         {
             "name": "17. GoodFellas",
-            "year": 1990,
+            "year": "1990",
             "run_time": "2h 25m",
-            "position": 18,
-            "rating": 8.7,
+            "rating": "8.7",
             "url": "https://www.imdb.com/title/tt0099685/?ref_=chttp_t_17"
         }
     ],
     "2014": [
         {
             "name": "18. Interstellar",
-            "year": 2014,
+            "year": "2014",
             "run_time": "2h 49m",
-            "position": 19,
-            "rating": 8.7,
+            "rating": "8.7",
             "url": "https://www.imdb.com/title/tt0816692/?ref_=chttp_t_18"
         }
     ],
     "1975": [
         {
             "name": "19. One Flew Over the Cuckoo's Nest",
-            "year": 1975,
+            "year": "1975",
             "run_time": "2h 13m",
-            "position": 20,
-            "rating": 8.7,
+            "rating": "8.7",
             "url": "https://www.imdb.com/title/tt0073486/?ref_=chttp_t_19"
         }
     ],
     "1995": [
         {
             "name": "20. Se7en",
-            "year": 1995,
+            "year": "1995",
             "run_time": "2h 7m",
-            "position": 21,
-            "rating": 8.6,
+            "rating": "8.6",
             "url": "https://www.imdb.com/title/tt0114369/?ref_=chttp_t_20"
         }
     ],
     "1946": [
         {
             "name": "21. It's a Wonderful Life",
-            "year": 1946,
+            "year": "1946",
             "run_time": "2h 10m",
-            "position": 22,
-            "rating": 8.6,
+            "rating": "8.6",
             "url": "https://www.imdb.com/title/tt0038650/?ref_=chttp_t_21"
         }
     ],
     "1991": [
         {
             "name": "22. The Silence of the Lambs",
-            "year": 1991,
+            "year": "1991",
             "run_time": "1h 58m",
-            "position": 23,
-            "rating": 8.6,
+            "rating": "8.6",
             "url": "https://www.imdb.com/title/tt0102926/?ref_=chttp_t_22"
         }
     ],
     "1954": [
         {
             "name": "23. Shichinin No Samurai",
-            "year": 1954,
+            "year": "1954",
             "run_time": "3h 27m",
-            "position": 24,
-            "rating": 8.6,
+            "rating": "8.6",
             "url": "https://www.imdb.com/title/tt0047478/?ref_=chttp_t_23"
         }
     ],
     "1998": [
         {
             "name": "24. Saving Private Ryan",
-            "year": 1998,
+            "year": "1998",
             "run_time": "2h 49m",
-            "position": 25,
-            "rating": 8.6,
+            "rating": "8.6",
             "url": "https://www.imdb.com/title/tt0120815/?ref_=chttp_t_24"
         }
     ]
