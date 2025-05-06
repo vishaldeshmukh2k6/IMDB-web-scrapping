@@ -13,7 +13,7 @@ def get_all_top_movies_grouped_by_year(movies):
 all_movies = scrape_top_list()
 grouped = get_all_top_movies_grouped_by_year(all_movies)
 
-with open("data/movies_data.json", 'w') as f:
+with open("data/task_2.json", 'w') as f:
     json.dump(grouped, f, indent=4)
 
 

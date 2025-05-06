@@ -33,6 +33,6 @@ def scrape_top_list():
 
         movies.append(film)
 
-    with open("data/movies.json", 'w+') as f:
+    with open("data/task_1.json", 'w+') as f:
         json.dump(movies, f, indent=4)
     return movies
