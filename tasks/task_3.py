@@ -8,7 +8,10 @@ def group_by_decade(movies):
         if year and year.isdigit():
             year = int(year)
             decade = (year // 10) * 10
-            result.setdefault(str(decade), []).append(m)
+            decade_str = str(decade)
+            if decade_str not in result:
+                result[decade_str] = [] 
+            result[decade_str].append(m)
     return result
 
 all_movies = scrape_top_list()
